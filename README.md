@@ -19,4 +19,4 @@ O e-book apresenta uma combinação de insights valiosos e elementos visuais atr
 ## 💭 Reflexão 
 Criar este e-book foi uma experiência empolgante, que reforçou minha crença no potencial das IAs para simplificar tarefas, otimizar processos e melhorar a colaboração nas equipes ágeis.
 
-
+EBOOK - https://www.canva.com/design/DAGaIj_RtmM/beSL62H1-QcHp5DIU9iWuA/view?utm_content=DAGaIj_RtmM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8e817a7286
