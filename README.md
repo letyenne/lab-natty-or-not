@@ -20,23 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Scrum e IA: A Revolução no Gerenciamento Ágil 🌟 ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas mergulha na integração de IAs Generativas com o framework Scrum, mostrando como essas tecnologias estão otimizando o trabalho de equipes ágeis e aprimorando o papel do Scrum Master.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Para criar e revisar o conteúdo do e-book, garantindo clareza e engajamento.
+Canva: Para edição e gerar imagens que representem eventos Scrum e práticas ágeis com IA.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa e Estruturação: Utilizei o ChatGPT para compor capítulos curtos que destacam como a IA pode ser usada no Scrum, com exemplos reais e práticos.
+Design Visual: Gerei imagens usando o Canva para ilustrar conceitos como o Product Backlog, Daily Scrum e Retrospectivas.
+Montagem e Revisão: Compilei e organizei o conteúdo no Libre Office, criando um layout simples e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta uma combinação de insights valiosos e elementos visuais atraentes para ajudar Scrum Masters, Product Owners e equipes ágeis a entenderem e aplicarem IAs Generativas em seus processos. Ele é um guia prático para transformar a gestão ágil com tecnologia de ponta.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão 
+Criar este e-book foi uma experiência empolgante, que reforçou minha crença no potencial das IAs para simplificar tarefas, otimizar processos e melhorar a colaboração nas equipes ágeis.
 
 ### Exemplos e Insigths
 
